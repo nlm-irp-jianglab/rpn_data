@@ -1,0 +1,24 @@
+DATASET_TEXT
+SEPARATOR	TAB
+DATASET_LABEL	label
+COLOR	#ff0000
+MARGIN	0
+SHOW_INTERNAL	0
+LABEL_ROTATION	0
+LABELS_BELOW	1
+VERTICAL_SHIFT	0
+STRAIGHT_LABELS	0
+ALIGN_TO_TREE	0
+SIZE_FACTOR	1
+EXTERNAL_LABEL_SHIFT	0
+DATA
+rpnF	rpnF	-1	#B6992D	normal	1
+rpnG	rpnG	-1	#79706E	normal	1
+rpnD	rpnD	-1	#B07AA1	normal	1
+rpnE	rpnE	-1	#F28E2B	normal	1
+rpnA	rpnA	-1	#D37295	normal	1
+rpnB	rpnB	-1	#4E79A7	normal	1
+rpnC	rpnC	-1	#59A14F	normal	1
+rpnP1	rpnP1	-1	#499894	normal	1
+rpnP2	rpnP2	-1	#E15759	normal	1
+rpnH	rpnH	-1	#FABFD2	normal	1
